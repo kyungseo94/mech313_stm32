@@ -6,5 +6,5 @@ LDO schematic:
 
 
 5V, 3.3V 검증 완료
-![lab1 image](images/5v.jpg)
-![lab1 image](images/3.3v.jpg)
+![lab1 image](images/5V.jpg)
+![lab1 image](images/3.3V.jpg)
