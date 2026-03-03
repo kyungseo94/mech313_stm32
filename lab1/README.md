@@ -3,3 +3,8 @@ Buck schematic:
 ![lab1 image](images/buck_sch.jpg)
 LDO schematic:
 ![lab1 image](images/LDO_sch.jpg)
+
+
+5V, 3.3V 검증 완료
+![lab1 image](images/5v.jpg)
+![lab1 image](images/3.3v.jpg)
