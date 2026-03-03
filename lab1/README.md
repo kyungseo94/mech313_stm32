@@ -1,6 +1,4 @@
-# Lab 1
-
-## 실습 주제: Buck converter + LDO Powor Source Circuit
+# Lab 1: Buck converter + LDO Powor Source Circuit
 Buck schematic:
 
 LDO schematic:
