@@ -1,10 +1,5 @@
 # Lab 1: Buck converter + LDO Powor Source Circuit
-Buck schematic:
-![lab1 image](images/buck_sch.jpg)
-LDO schematic:
-![lab1 image](images/LDO_sch.jpg)
+Lab1 Schematic:
+![lab1 image](lab1_schematic.jpg)
 
-
-5V, 3.3V 회로 검증 완료
-![lab1 image](images/5V.jpg)
-![lab1 image](images/3.3V.jpg)
+Each component’s dimensions and package information can be found in the datasheet.
